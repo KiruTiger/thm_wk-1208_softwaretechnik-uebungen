@@ -10,5 +10,5 @@ PG, AD, BSRN
 …
 
 ## Das erwarte ich von der Veranstaltung
-
+Neue Erfahrungen, Neues Wissen für Software
 …
